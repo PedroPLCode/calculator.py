@@ -1,6 +1,4 @@
-2024-01-02 22:29:01,765 INFO 
-Start calculator.py
-
+2024-01-02 22:29:01,765 INFO Start calculator.py
 2024-01-02 22:29:04,251 INFO User answer y - Program continue
 2024-01-02 22:29:09,412 INFO User input string: 324,324 / 64325
 2024-01-02 22:29:09,412 INFO Number 1: 324.324 Number 2: 64325 Operation: /
@@ -8,3 +6,299 @@ Start calculator.py
 2024-01-02 22:29:09,412 INFO 64325.0 is float
 2024-01-02 22:29:09,412 INFO Result: 0.00504195880295375
 2024-01-02 22:29:12,196 INFO User answer q - Exit program
+2024-01-02 22:38:16,288 INFO Start calculator.py
+2024-01-02 22:38:20,415 WARNING User answer er - Not recognized
+2024-01-02 22:38:21,905 INFO User answer y - Program continue
+2024-01-02 22:38:27,209 INFO User input string: 324,3242 * 234
+2024-01-02 22:38:27,209 INFO Number 1: 324.3242 Number 2: 234 Operation: *
+2024-01-02 22:38:27,209 INFO 324.3242 is float
+2024-01-02 22:38:27,209 INFO 234.0 is float
+2024-01-02 22:38:27,209 INFO Result: 75891.8628
+2024-01-02 22:38:28,682 INFO User answer y - Program continue
+2024-01-02 22:38:30,950 INFO User input string: 234 /324
+2024-01-02 22:38:30,950 ERROR Input contains more or less than three elements. Trying again
+2024-01-02 22:38:33,965 INFO User answer y - Program continue
+2024-01-02 22:38:36,414 INFO User input string: 234 / 234523
+2024-01-02 22:38:36,414 INFO Number 1: 234 Number 2: 234523 Operation: /
+2024-01-02 22:38:36,414 INFO 234.0 is float
+2024-01-02 22:38:36,414 INFO 234523.0 is float
+2024-01-02 22:38:36,414 INFO Result: 0.000997769941540915
+2024-01-02 22:38:37,943 INFO User answer y - Program continue
+2024-01-02 22:38:41,510 INFO User input string: 234 32432 324 234
+2024-01-02 22:38:41,510 ERROR Input contains more or less than three elements. Trying again
+2024-01-02 22:38:43,287 INFO User answer y - Program continue
+2024-01-02 22:38:45,743 INFO User input string: 234 / ewr
+2024-01-02 22:38:45,744 INFO Number 1: 234 Number 2: ewr Operation: /
+2024-01-02 22:38:45,744 INFO 234.0 is float
+2024-01-02 22:38:45,744 ERROR ewr is string
+2024-01-02 22:38:45,744 ERROR Input is string. Trying again
+2024-01-02 22:38:47,641 INFO User answer y - Program continue
+2024-01-02 22:38:49,624 INFO User input string: 324 / 2341
+2024-01-02 22:38:49,624 INFO Number 1: 324 Number 2: 2341 Operation: /
+2024-01-02 22:38:49,625 INFO 324.0 is float
+2024-01-02 22:38:49,625 INFO 2341.0 is float
+2024-01-02 22:38:49,625 INFO Result: 0.13840239214011107
+2024-01-02 22:38:51,169 INFO User answer q - Exit program
+2024-01-02 22:55:13,864 INFO Start calculator.py
+2024-01-02 22:55:26,884 INFO User answer y - Program continue
+2024-01-02 22:55:34,566 INFO User input string: 435, 34 / 345
+2024-01-02 22:55:34,567 ERROR Input contains more or less than three elements. Trying again
+2024-01-02 22:55:38,421 INFO User answer y - Program continue
+2024-01-02 22:55:42,864 INFO User input string: 345,435 / 43
+2024-01-02 22:55:42,865 INFO Number 1: 345.435 Number 2: 43 Operation: /
+2024-01-02 22:55:42,865 INFO 345.435 is float
+2024-01-02 22:55:42,865 INFO 43.0 is float
+2024-01-02 22:55:42,865 INFO Result: 8.033372093023257
+2024-01-02 22:55:47,542 INFO User answer y - Program continue
+2024-01-02 22:55:52,543 INFO User input string: 435 - 435n
+2024-01-02 22:55:52,543 INFO Number 1: 435 Number 2: 435n Operation: -
+2024-01-02 22:55:52,543 INFO 435.0 is float
+2024-01-02 22:55:52,543 ERROR 435n is string
+2024-01-02 22:55:52,544 ERROR Input is string. Trying again
+2024-01-02 22:55:54,896 INFO User answer y - Program continue
+2024-01-02 22:55:58,994 INFO User input string: 435/ 3
+2024-01-02 22:55:58,994 ERROR Input contains more or less than three elements. Trying again
+2024-01-02 22:56:02,465 INFO User answer y - Program continue
+2024-01-02 22:56:05,902 INFO User input string: 345 / 345,435
+2024-01-02 22:56:05,902 INFO Number 1: 345 Number 2: 345.435 Operation: /
+2024-01-02 22:56:05,902 INFO 345.0 is float
+2024-01-02 22:56:05,902 INFO 345.435 is float
+2024-01-02 22:56:05,903 INFO Result: 0.9987407182248469
+2024-01-02 22:56:08,653 INFO User answer y - Program continue
+2024-01-02 22:56:11,097 INFO User input string: 345 / 0
+2024-01-02 22:56:11,097 INFO Number 1: 345 Number 2: 0 Operation: /
+2024-01-02 22:56:11,097 INFO 345.0 is float
+2024-01-02 22:56:11,097 INFO 0.0 is float2024-01-02 23:00:52,189 INFO Start calculator.py
+2024-01-02 23:00:54,277 INFO User answer y - Program continue
+2024-01-02 23:01:01,082 INFO User input string: 3245,23 / 634
+2024-01-02 23:01:01,083 INFO Number 1: 3245.23 Number 2: 634 Operation: /
+2024-01-02 23:01:01,083 INFO 3245.23 is float
+2024-01-02 23:01:01,083 INFO 634.0 is float
+2024-01-02 23:01:01,083 INFO Result: 5.118659305993691
+2024-01-02 23:01:03,211 INFO User answer y - Program continue
+2024-01-02 23:01:07,282 INFO User input string: 435 / 345/3
+2024-01-02 23:01:07,283 INFO Number 1: 435 Number 2: 345/3 Operation: /
+2024-01-02 23:01:07,283 INFO 435.0 is float
+2024-01-02 23:01:07,283 ERROR 345/3 is string
+2024-01-02 23:01:07,284 ERROR Input is string. Trying again
+2024-01-02 23:01:10,425 INFO User answer y - Program continue
+2024-01-02 23:01:14,288 INFO User input string: 345 435 /435
+2024-01-02 23:01:14,288 INFO Number 1: 345 Number 2: /435 Operation: 435
+2024-01-02 23:01:14,288 INFO 345.0 is float
+2024-01-02 23:01:14,289 ERROR /435 is string
+2024-01-02 23:01:14,289 ERROR Input is string. Trying again
+2024-01-02 23:01:20,822 INFO User answer y - Program continue
+2024-01-02 23:01:25,519 INFO User input string: 345 / 43653
+2024-01-02 23:01:25,519 INFO Number 1: 345 Number 2: 43653 Operation: /
+2024-01-02 23:01:25,519 INFO 345.0 is float
+2024-01-02 23:01:25,519 INFO 43653.0 is float
+2024-01-02 23:01:25,519 INFO Result: 0.007903236890935332
+2024-01-02 23:01:27,032 INFO User answer y - Program continue
+2024-01-02 23:01:30,673 INFO User input string: 345 ge 345
+2024-01-02 23:01:30,673 INFO Number 1: 345 Number 2: 345 Operation: ge
+2024-01-02 23:01:30,673 INFO 345.0 is float
+2024-01-02 23:01:30,673 INFO 345.0 is float
+2024-01-02 23:01:30,673 WARNING Operation: ge - not recognized
+2024-01-02 23:01:30,674 INFO Result: Wrong. Operation not supported.
+2024-01-02 23:01:34,254 INFO User answer y - Program continue
+2024-01-02 23:01:36,415 INFO User input string: 345 435
+2024-01-02 23:01:36,415 ERROR Input contains more or less than three elements. Trying again
+2024-01-02 23:01:38,550 INFO User answer y - Program continue
+2024-01-02 23:01:43,260 INFO User input string: 345 / 0
+2024-01-02 23:01:43,260 INFO Number 1: 345 Number 2: 0 Operation: /
+2024-01-02 23:01:43,260 INFO 345.0 is float
+2024-01-02 23:01:43,260 INFO 0.0 is float
+2024-01-02 23:01:43,260 INFO Result: Error. You can not divide by zero
+2024-01-02 23:01:50,291 WARNING User answer rgf - Not recognized
+2024-01-02 23:01:51,353 WARNING User answer dfg - Not recognized
+2024-01-02 23:01:53,130 INFO User answer q - Exit program
+2024-01-02 23:10:24,238 INFO Start calculator.py
+2024-01-02 23:10:26,245 INFO User answer y - Program continue
+2024-01-02 23:10:37,498 INFO User input string: 324,66 + 234,22
+2024-01-02 23:10:37,498 INFO Number 1: 324.66 Number 2: 234.22 Operation: +
+2024-01-02 23:10:37,499 INFO 324.66 is float
+2024-01-02 23:10:37,499 INFO 234.22 is float
+2024-01-02 23:10:37,499 INFO Result: 558.88
+2024-01-02 23:10:47,088 INFO User answer q - Exit program
+2024-01-02 23:15:56,720 INFO Start calculator.py
+2024-01-02 23:15:59,297 INFO User answer y - Program continue
+2024-01-02 23:16:04,877 INFO User input string: 324,32 / 23
+2024-01-02 23:16:04,878 INFO Number 1: 324.32 Number 2: 23 Operation: /
+2024-01-02 23:16:04,878 INFO 324.32 is float
+2024-01-02 23:16:04,878 INFO 23.0 is float
+2024-01-02 23:16:04,878 INFO Result: 14.10086956521739
+2024-01-02 23:16:06,352 INFO User answer y - Program continue
+2024-01-02 23:16:08,028 INFO User input string: 234 /234
+2024-01-02 23:16:08,028 ERROR Input contains more or less than three elements. Trying again
+2024-01-02 23:16:11,259 INFO User answer y - Program continue
+2024-01-02 23:16:14,454 INFO User input string: 34 / sd
+2024-01-02 23:16:14,454 INFO Number 1: 34 Number 2: sd Operation: /
+2024-01-02 23:16:14,455 INFO 34.0 is float
+2024-01-02 23:16:14,455 ERROR sd is string
+2024-01-02 23:16:14,455 ERROR Input is string. Trying again
+2024-01-02 23:16:17,237 INFO User answer y - Program continue
+2024-01-02 23:16:20,303 INFO User input string: 324 / 234,23
+2024-01-02 23:16:20,303 INFO Number 1: 324 Number 2: 234.23 Operation: /
+2024-01-02 23:16:20,303 INFO 324.0 is float
+2024-01-02 23:16:20,303 INFO 234.23 is float
+2024-01-02 23:16:20,304 INFO Result: 1.383255774238996
+2024-01-02 23:16:22,655 INFO User answer y - Program continue
+2024-01-02 23:16:25,595 INFO User input string: 324 / 0
+2024-01-02 23:16:25,596 INFO Number 1: 324 Number 2: 0 Operation: /
+2024-01-02 23:16:25,596 INFO 324.0 is float
+2024-01-02 23:16:25,596 INFO 0.0 is float
+2024-01-02 23:16:25,596 INFO Result: Error. You can not divide by zero
+2024-01-02 23:16:31,248 WARNING User answer 234 / -0 - Not recognized
+2024-01-02 23:16:41,110 INFO User answer y - Program continue
+2024-01-02 23:16:45,814 INFO User input string: 234 / -8
+2024-01-02 23:16:45,815 INFO Number 1: 234 Number 2: -8 Operation: /
+2024-01-02 23:16:45,815 INFO 234.0 is float
+2024-01-02 23:16:45,815 INFO -8.0 is float
+2024-01-02 23:16:45,815 INFO Result: -29.25
+2024-01-02 23:16:51,259 INFO User answer y - Program continue
+2024-01-02 23:16:53,417 INFO User input string: 234 / 0
+2024-01-02 23:16:53,418 INFO Number 1: 234 Number 2: 0 Operation: /
+2024-01-02 23:16:53,418 INFO 234.0 is float
+2024-01-02 23:16:53,418 INFO 0.0 is float
+2024-01-02 23:16:53,418 INFO Result: Error. You can not divide by zero
+2024-01-02 23:16:56,512 INFO User answer y - Program continue
+2024-01-02 23:17:03,076 INFO User input string: 234 * -9
+2024-01-02 23:17:03,076 INFO Number 1: 234 Number 2: -9 Operation: *
+2024-01-02 23:17:03,076 INFO 234.0 is float
+2024-01-02 23:17:03,077 INFO -9.0 is float
+2024-01-02 23:17:03,077 INFO Result: -2106.0
+2024-01-02 23:17:04,989 INFO User answer y - Program continue
+2024-01-02 23:17:07,591 INFO User input string: 324 / -0
+2024-01-02 23:17:07,592 INFO Number 1: 324 Number 2: -0 Operation: /
+2024-01-02 23:17:07,592 INFO 324.0 is float
+2024-01-02 23:17:07,592 INFO -0.0 is float
+2024-01-02 23:17:07,592 INFO Result: Error. You can not divide by zero
+2024-01-02 23:17:17,545 WARNING User answer qsd - Not recognized
+2024-01-02 23:17:18,912 WARNING User answer dsf - Not recognized
+2024-01-02 23:17:20,330 INFO User answer q - Exit program
+2024-01-02 23:27:07,387 INFO Start calculator.py
+2024-01-02 23:27:22,205 WARNING User answer sfsd ds - Not recognized
+2024-01-02 23:27:25,164 INFO User answer y - Program continue
+2024-01-02 23:27:29,385 INFO User input string: 324 / 234
+2024-01-02 23:27:29,386 INFO Number 1: 324 Number 2: 234 Operation: /
+2024-01-02 23:27:29,386 INFO 324.0 is float
+2024-01-02 23:27:29,386 INFO 234.0 is float
+2024-01-02 23:27:29,386 INFO Result: 1.3846153846153846
+2024-01-02 23:27:32,131 INFO User answer y - Program continue
+2024-01-02 23:27:35,679 INFO User input string: 234,2365 / 234
+2024-01-02 23:27:35,679 INFO Number 1: 234.2365 Number 2: 234 Operation: /
+2024-01-02 23:27:35,679 INFO 234.2365 is float
+2024-01-02 23:27:35,680 INFO 234.0 is float
+2024-01-02 23:27:35,680 INFO Result: 1.0010106837606838
+2024-01-02 23:27:38,199 INFO User answer y - Program continue
+2024-01-02 23:27:41,210 INFO User input string: 234 / 0
+2024-01-02 23:27:41,210 INFO Number 1: 234 Number 2: 0 Operation: /
+2024-01-02 23:27:41,211 INFO 234.0 is float
+2024-01-02 23:27:41,211 INFO 0.0 is float
+2024-01-02 23:27:41,211 INFO Result: Wrong. You can not divide by zero
+2024-01-02 23:27:46,095 INFO User answer y - Program continue
+2024-01-02 23:27:49,439 INFO User input string: 234 / twe
+2024-01-02 23:27:49,440 INFO Number 1: 234 Number 2: twe Operation: /
+2024-01-02 23:27:49,440 INFO 234.0 is float
+2024-01-02 23:27:49,440 ERROR twe is string
+2024-01-02 23:27:49,440 ERROR Input is string. Trying again
+2024-01-02 23:27:52,439 INFO User answer y - Program continue
+2024-01-02 23:27:55,187 INFO User input string: 234 234 234
+2024-01-02 23:27:55,188 INFO Number 1: 234 Number 2: 234 Operation: 234
+2024-01-02 23:27:55,188 INFO 234.0 is float
+2024-01-02 23:27:55,188 INFO 234.0 is float
+2024-01-02 23:27:55,188 WARNING Operation: 234 - not recognized
+2024-01-02 23:27:55,188 INFO Result: Wrong. Operation not supported.
+2024-01-02 23:27:57,819 INFO User answer y - Program continue
+2024-01-02 23:28:00,084 INFO User input string: 234 g 234
+2024-01-02 23:28:00,084 INFO Number 1: 234 Number 2: 234 Operation: g
+2024-01-02 23:28:00,085 INFO 234.0 is float
+2024-01-02 23:28:00,085 INFO 234.0 is float
+2024-01-02 23:28:00,085 WARNING Operation: g - not recognized
+2024-01-02 23:28:00,085 INFO Result: Wrong. Operation not supported.
+2024-01-02 23:28:07,587 WARNING User answer 234 - Not recognized
+2024-01-02 23:28:08,294 INFO User answer y - Program continue
+2024-01-02 23:28:12,139 INFO User input string: 234 234 324324 234 234 234
+2024-01-02 23:28:12,139 ERROR Input contains more or less than three elements. Trying again
+2024-01-02 23:28:16,793 INFO User answer q - Exit program
+2024-01-02 23:28:45,860 INFO Start calculator.py
+2024-01-02 23:28:48,222 INFO User answer y - Program continue
+2024-01-02 23:28:51,800 INFO User input string: 234 / 235,23
+2024-01-02 23:28:51,800 INFO Number 1: 234 Number 2: 235.23 Operation: /
+2024-01-02 23:28:51,800 INFO 234.0 is float
+2024-01-02 23:28:51,800 INFO 235.23 is float
+2024-01-02 23:28:51,801 INFO Result: 0.9947710751179697
+2024-01-02 23:28:53,225 INFO User answer y - Program continue
+2024-01-02 23:28:55,823 INFO User input string: 324 gs 324
+2024-01-02 23:28:55,824 INFO Number 1: 324 Number 2: 324 Operation: gs
+2024-01-02 23:28:55,824 INFO 324.0 is float
+2024-01-02 23:28:55,824 INFO 324.0 is float
+2024-01-02 23:28:55,824 WARNING Operation: gs - not recognized
+2024-01-02 23:28:55,824 INFO Result: Wrong. Operation gs not supported.
+2024-01-02 23:28:59,151 INFO User answer y - Program continue
+2024-01-02 23:29:01,394 INFO User input string: 234 /234
+2024-01-02 23:29:01,395 ERROR Input contains more or less than three elements. Trying again
+2024-01-02 23:29:04,290 INFO User answer y - Program continue
+2024-01-02 23:29:07,742 INFO User input string: wer we 234
+2024-01-02 23:29:07,743 INFO Number 1: wer Number 2: 234 Operation: we
+2024-01-02 23:29:07,743 ERROR wer is string
+2024-01-02 23:29:07,743 ERROR Input is string. Trying again
+2024-01-02 23:29:11,158 WARNING User answer safd - Not recognized
+2024-01-02 23:29:12,657 INFO User answer q - Exit program
+2024-01-02 23:37:11,578 INFO Start calculator.py
+2024-01-02 23:37:28,657 INFO User answer y - Program continue
+2024-01-02 23:37:35,079 INFO User input string: 234,324 / 324
+2024-01-02 23:37:35,079 INFO Number 1: 234.324 Number 2: 324 Operation: /
+2024-01-02 23:37:35,080 INFO 234.324 is float
+2024-01-02 23:37:35,080 INFO 324.0 is float
+2024-01-02 23:37:35,080 INFO Result: 0.7232222222222222
+2024-01-02 23:37:37,687 INFO User answer y - Program continue
+2024-01-02 23:37:42,264 INFO User input string: 234 / 0
+2024-01-02 23:37:42,264 INFO Number 1: 234 Number 2: 0 Operation: /
+2024-01-02 23:37:42,264 INFO 234.0 is float
+2024-01-02 23:37:42,264 INFO 0.0 is float
+2024-01-02 23:37:42,264 INFO Result: Wrong. You can not divide by zero
+2024-01-02 23:37:46,318 INFO User answer y - Program continue
+2024-01-02 23:37:51,582 INFO User input string: 234 * 234,234
+2024-01-02 23:37:51,583 INFO Number 1: 234 Number 2: 234.234 Operation: *
+2024-01-02 23:37:51,583 INFO 234.0 is float
+2024-01-02 23:37:51,583 INFO 234.234 is float
+2024-01-02 23:37:51,583 INFO Result: 54810.756
+2024-01-02 23:37:55,915 INFO User answer y - Program continue
+2024-01-02 23:38:00,468 INFO User input string: 324 / rwt
+2024-01-02 23:38:00,468 INFO Number 1: 324 Number 2: rwt Operation: /
+2024-01-02 23:38:00,468 INFO 324.0 is float
+2024-01-02 23:38:00,468 ERROR rwt is string
+2024-01-02 23:38:00,469 ERROR Input is string. Trying again
+2024-01-02 23:38:04,171 INFO User answer y - Program continue
+2024-01-02 23:38:07,973 INFO User input string: gfdg gsfg s
+2024-01-02 23:38:07,973 INFO Number 1: gfdg Number 2: s Operation: gsfg
+2024-01-02 23:38:07,973 ERROR gfdg is string
+2024-01-02 23:38:07,973 ERROR Input is string. Trying again
+2024-01-02 23:38:10,597 INFO User answer y - Program continue
+2024-01-02 23:38:13,548 INFO User input string: 324 f 234
+2024-01-02 23:38:13,548 INFO Number 1: 324 Number 2: 234 Operation: f
+2024-01-02 23:38:13,548 INFO 324.0 is float
+2024-01-02 23:38:13,548 INFO 234.0 is float
+2024-01-02 23:38:13,549 WARNING Operation: f - not recognized
+2024-01-02 23:38:13,549 INFO Result: Wrong. Operation f not supported.
+2024-01-02 23:38:16,635 INFO User answer y - Program continue
+2024-01-02 23:38:23,887 INFO User input string: 234 324 234 234 234
+2024-01-02 23:38:23,887 ERROR Input contains more or less than three elements. Trying again
+2024-01-02 23:38:28,428 INFO User answer y - Program continue
+2024-01-02 23:38:30,722 INFO User input string: 234 / 2352
+2024-01-02 23:38:30,722 INFO Number 1: 234 Number 2: 2352 Operation: /
+2024-01-02 23:38:30,722 INFO 234.0 is float
+2024-01-02 23:38:30,722 INFO 2352.0 is float
+2024-01-02 23:38:30,722 INFO Result: 0.09948979591836735
+2024-01-02 23:38:32,866 INFO User answer y - Program continue
+2024-01-02 23:38:36,600 INFO User input string: 234 /
+2024-01-02 23:38:36,600 ERROR Input contains more or less than three elements. Trying again
+2024-01-02 23:38:39,319 INFO User answer y - Program continue
+2024-01-02 23:38:42,532 INFO User input string: 234 + 234
+2024-01-02 23:38:42,533 INFO Number 1: 234 Number 2: 234 Operation: +
+2024-01-02 23:38:42,533 INFO 234.0 is float
+2024-01-02 23:38:42,533 INFO 234.0 is float
+2024-01-02 23:38:42,533 INFO Result: 468.0
+2024-01-02 23:38:44,642 WARNING User answer wert - Not recognized
+2024-01-02 23:38:46,858 INFO User answer q - Exit program
