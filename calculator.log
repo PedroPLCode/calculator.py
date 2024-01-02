@@ -1,39 +1,10 @@
-2024-01-02 21:50:16,387 Start calculator.py
-2024-01-02 21:50:18,963 User answer y - Program continue
-2024-01-02 21:50:24,367 User input string: 324,324 / 324
-2024-01-02 21:50:24,367 Number 1: 324.324 Number 2: 324 Operation: /
-2024-01-02 21:50:24,367 324.324 is float
-2024-01-02 21:50:24,368 324.0 is float
-2024-01-02 21:50:24,368 Result: 1.0010000000000001
-2024-01-02 21:50:27,023 User answer y - Program continue
-2024-01-02 21:50:37,619 User input string: 3453426 - 435,5
-2024-01-02 21:50:37,620 Number 1: 3453426 Number 2: 435.5 Operation: -
-2024-01-02 21:50:37,620 3453426.0 is float
-2024-01-02 21:50:37,620 435.5 is float
-2024-01-02 21:50:37,620 Result: 3452990.5
-2024-01-02 21:50:39,311 User answer y - Program continue
-2024-01-02 21:50:42,413 User input string: 324 / wr
-2024-01-02 21:50:42,413 Number 1: 324 Number 2: wr Operation: /
-2024-01-02 21:50:42,413 324.0 is float
-2024-01-02 21:50:42,414 wr is string
-2024-01-02 21:50:42,414 Input is string. Trying again
-2024-01-02 21:50:45,381 User answer y - Program continue
-2024-01-02 21:50:47,980 User input string: 234 / 2343265
-2024-01-02 21:50:47,981 Number 1: 234 Number 2: 2343265 Operation: /
-2024-01-02 21:50:47,981 234.0 is float
-2024-01-02 21:50:47,981 2343265.0 is float
-2024-01-02 21:50:47,981 Result: 9.98606645001739e-05
-2024-01-02 21:50:54,145 User answer y - Program continue
-2024-01-02 21:50:59,390 User input string: 234,324,235623 - 234
-2024-01-02 21:50:59,391 Number 1: 234,324,235623 Number 2: 234 Operation: -
-2024-01-02 21:50:59,391 234,324,235623 is string
-2024-01-02 21:50:59,391 Input is string. Trying again
-2024-01-02 21:51:03,427 User answer y - Program continue
-2024-01-02 21:51:06,429 User input string: 324 / 324
-2024-01-02 21:51:06,429 Number 1: 324 Number 2: 324 Operation: /
-2024-01-02 21:51:06,430 324.0 is float
-2024-01-02 21:51:06,430 324.0 is float
-2024-01-02 21:51:06,430 Result: 1.0
-2024-01-02 21:51:10,046 User answer reg - Not recognized
-2024-01-02 21:51:12,537 User answer sadfqw3 - Not recognized
-2024-01-02 21:51:14,403 User answer q - Exit program
+2024-01-02 22:29:01,765 INFO 
+Start calculator.py
+
+2024-01-02 22:29:04,251 INFO User answer y - Program continue
+2024-01-02 22:29:09,412 INFO User input string: 324,324 / 64325
+2024-01-02 22:29:09,412 INFO Number 1: 324.324 Number 2: 64325 Operation: /
+2024-01-02 22:29:09,412 INFO 324.324 is float
+2024-01-02 22:29:09,412 INFO 64325.0 is float
+2024-01-02 22:29:09,412 INFO Result: 0.00504195880295375
+2024-01-02 22:29:12,196 INFO User answer q - Exit program
